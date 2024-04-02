@@ -1,0 +1,232 @@
+body {
+    background-color: #F5F2FC;
+}
+
+
+.header {
+    /* margin-left: 5%; */
+    background-color: white;
+
+}
+
+.flipkart {
+    margin-left: 160px;
+}
+
+.header-main {
+    margin-left: 22%;
+    margin-top: -35px;
+
+}
+
+.Search {
+    margin-left: 23%;
+    margin-top: -27px;
+}
+
+.input {
+    width: 700px;
+    border: none;
+    outline: none;
+    background-color: #fff6f6;
+    border-radius: 6px;
+    height: 25px;
+    padding-left: 50px;
+
+
+}
+
+.logo {
+
+    margin-left: 68%;
+    margin-top: -25px;
+
+}
+
+.logo2 {
+    margin-left: 75%;
+    margin-top: -21px;
+}
+
+.writing {
+    margin-left: 69.5%;
+    margin-top: -25px;
+}
+
+.writing2 {
+    margin-left: 77%;
+    margin-top: -41px;
+}
+
+.logo3 {
+    margin-left: 81.5%;
+    margin-top: -37px;
+}
+
+.writing3 {
+    margin-left: 84.5%;
+    margin-top: -43px;
+}
+
+.menulist img {
+    margin-left: 70px;
+    margin-top: 30px;
+}
+
+.menulist {
+    width: 1500px;
+    display: flex;
+    margin-left: 130px;
+    background-color: white;
+    margin-top: 10px;
+
+}
+
+.menutag {
+    margin-left: 175px;
+    display: flex;
+}
+
+#grocery {
+    margin-left: 74px;
+}
+
+#mobile {
+    margin-left: 59%;
+}
+
+#fashion {
+    margin-left: 60%;
+}
+
+#electronics {
+    margin-left: 46%;
+}
+
+#home {
+    margin-left: 40%;
+}
+
+#app {
+    margin-left: 54%;
+}
+
+#travel {
+    margin-left: 62%;
+}
+
+#beaty {
+    margin-left: 43px;
+}
+
+#bike {
+    margin-left: 60px;
+}
+
+.advtics {
+    margin-left: 130px;
+    margin-top: 20px;
+}   
+
+.advtics img {
+    width: 1500px;
+    margin-left: 2px;
+    margin-top: 10px;
+
+}
+
+.best{
+    margin-left: 140px;
+}
+
+.arroow{
+    margin-left: 82%;
+    margin-top: -45px;
+}
+
+.main {
+    display: flex;
+    padding-left: 105px;
+    width: 90%;
+    background-color: white;
+
+}
+
+.container {
+    height: 215px;
+    width: 100%;
+    border: 1px solid #808080;
+    margin-left: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flight{
+    margin-left: 86%;
+    margin-top: -16.2%;
+}
+
+.beauty{
+    margin-left: 140px;
+}
+
+.arrow{
+    margin-left: 82%;
+    margin-top: -45px;
+}
+
+.block {
+    display: flex;
+    padding-left: 105px;
+    width: 90%;
+    background-color: white;
+
+}
+
+.box {
+    height: 215px;
+    width: 100%;
+    border: 1px solid #808080;
+    margin-left: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Season{
+    margin-left: 140px;
+}
+
+.left{
+    height: 600px;
+    width: 100%;
+    /* border: 1px solid black; */
+    display: flex;
+    margin-left: 120px;
+    background-color: white;
+   
+  
+}
+
+.top{
+    height: 290px;
+    width: 200px;
+    border: 1px solid black;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.peek{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.peek2{
+    margin-top: 20px;
+}
